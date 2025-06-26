@@ -1,0 +1,48 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: #f5dede;
+  color: #0d0e0e;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border: 3px solid #f2A0A0(120 20% 0%);
+  margin-bottom: 10px;
+}
+
+h1, h2 {
+  color: #6889A6;
+}
+
+a {
+  color: #25b2ee;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
